@@ -1,0 +1,15 @@
+body{
+	background-color: lightgreen;
+}
+p{
+	background-color: white;
+	color: blue;
+	padding: 10px;
+	font-style: italic;
+	display: ;
+}
+.quote-box{
+	display: flex;
+	flex-flow: column;
+	justify-content: flex-start;
+}
